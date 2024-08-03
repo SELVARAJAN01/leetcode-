@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/2481-strictly-palindromic-number) |
+## Array
+|  |
+| ------- |
+| [2480-find-subarrays-with-equal-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/2480-find-subarrays-with-equal-sum) |
+## Hash Table
+|  |
+| ------- |
+| [2480-find-subarrays-with-equal-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/2480-find-subarrays-with-equal-sum) |
 <!---LeetCode Topics End-->
