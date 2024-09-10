@@ -35,12 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SELVARAJAN01/leetcode-/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0221-maximal-square](https://github.com/SELVARAJAN01/leetcode-/tree/master/0221-maximal-square) |
 ## Matrix
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/SELVARAJAN01/leetcode-/tree/master/0221-maximal-square) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
