@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SELVARAJAN01/leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/SELVARAJAN01/leetcode-/tree/master/0070-climbing-stairs) |
 | [2481-strictly-palindromic-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/SELVARAJAN01/leetcode-/tree/master/0070-climbing-stairs) |
 | [0221-maximal-square](https://github.com/SELVARAJAN01/leetcode-/tree/master/0221-maximal-square) |
 ## Matrix
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SELVARAJAN01/leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
