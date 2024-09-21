@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SELVARAJAN01/leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SELVARAJAN01/leetcode-/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/SELVARAJAN01/leetcode-/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/1013-fibonacci-number) |
 | [2481-strictly-palindromic-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/SELVARAJAN01/leetcode-/tree/master/0189-rotate-array) |
 | [2481-strictly-palindromic-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SELVARAJAN01/leetcode-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SELVARAJAN01/leetcode-/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/SELVARAJAN01/leetcode-/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/SELVARAJAN01/leetcode-/tree/master/0221-maximal-square) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/2480-find-subarrays-with-equal-sum) |
