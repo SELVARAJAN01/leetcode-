@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SELVARAJAN01/leetcode-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/SELVARAJAN01/leetcode-/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [2481-strictly-palindromic-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/2481-strictly-palindromic-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SELVARAJAN01/leetcode-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Binary Search
 |  |
@@ -103,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SELVARAJAN01/leetcode-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
