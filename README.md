@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SELVARAJAN01/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SELVARAJAN01/leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SELVARAJAN01/leetcode-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
+| [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SELVARAJAN01/leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
