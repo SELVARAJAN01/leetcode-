@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/SELVARAJAN01/leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/SELVARAJAN01/leetcode-/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SELVARAJAN01/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SELVARAJAN01/leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/SELVARAJAN01/leetcode-/tree/master/0206-reverse-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
