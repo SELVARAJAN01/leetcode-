@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/SELVARAJAN01/leetcode-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/SELVARAJAN01/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/SELVARAJAN01/leetcode-/tree/master/0070-climbing-stairs) |
 | [0221-maximal-square](https://github.com/SELVARAJAN01/leetcode-/tree/master/0221-maximal-square) |
+| [0516-longest-palindromic-subsequence](https://github.com/SELVARAJAN01/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
