@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SELVARAJAN01/leetcode-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SELVARAJAN01/leetcode-/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/SELVARAJAN01/leetcode-/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/SELVARAJAN01/leetcode-/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0216-combination-sum-iii) |
@@ -130,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SELVARAJAN01/leetcode-/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
