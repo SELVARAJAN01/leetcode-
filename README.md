@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SELVARAJAN01/leetcode-/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/SELVARAJAN01/leetcode-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SELVARAJAN01/leetcode-/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/SELVARAJAN01/leetcode-/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SELVARAJAN01/leetcode-/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/SELVARAJAN01/leetcode-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/SELVARAJAN01/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0142-linked-list-cycle-ii) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SELVARAJAN01/leetcode-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
+| [0049-group-anagrams](https://github.com/SELVARAJAN01/leetcode-/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/SELVARAJAN01/leetcode-/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/SELVARAJAN01/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SELVARAJAN01/leetcode-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SELVARAJAN01/leetcode-/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
 ## Tree
